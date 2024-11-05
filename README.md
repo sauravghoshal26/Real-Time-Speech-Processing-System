@@ -3,6 +3,9 @@
 ## Overview
 This project aims to develop a speech synthesis model using the VITS architecture, focusing on an underrepresented language from the AI4Bharat corpus. The goal is to create a high-quality audio synthesis model that can convert text to speech in a unique language, ensuring utility and accessibility for diverse users.
 
+<img width="333" alt="Screenshot 2024-11-06 at 3 34 38 AM" src="https://github.com/user-attachments/assets/5e5a13bb-87ba-406c-a5b2-c8a526972dfc">
+
+
 ## Key Features
 - **Language Selection**: Focuses on underrepresented languages to enhance diversity in speech synthesis models.
 - **Data Acquisition**: Utilizes datasets from AI4Bharat Indic Voices or Svarah, ensuring compliance with data usage rights.
